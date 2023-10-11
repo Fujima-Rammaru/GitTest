@@ -6,6 +6,8 @@
 int main()
 {
 	std::cout << "Hello Git Hub!\n";
+
+	std::cout << "GC1C_13_フジマ_ランマル\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
