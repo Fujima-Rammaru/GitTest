@@ -13,6 +13,8 @@ int main()
 
 	std::cout << "playerを生成\n";
 
+	std::cout << "playerを生成\n";
+
 
 }
 
