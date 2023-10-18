@@ -17,6 +17,8 @@ int main()
 
 	std::cout << "pullrequest\n";
 
+	std::cout << "pullしません\n";
+
 
 }
 
