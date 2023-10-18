@@ -15,7 +15,7 @@ int main()
 
 	std::cout << "playerを生成\n";
 
-	std::cout << "pullrequest\n";
+	std::cout << "pull！！！！！！！！！！！！\n";
 
 
 }
