@@ -17,6 +17,7 @@ int main()
 
 	std::cout << "pull！！！！！！！！！！！！\n";
 
+	std::cout << "プルリクエストおさらい\n";
 	std::cout << "プルしてから作業します\n";
 
 }
