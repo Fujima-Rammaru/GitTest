@@ -17,7 +17,7 @@ int main()
 
 	std::cout << "pull！！！！！！！！！！！！\n";
 
-	
+	std::cout << "コンフリクト\n";
 
 
 }
